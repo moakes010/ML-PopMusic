@@ -3,7 +3,7 @@
 The following work looks to explore and examine music popularity in the United States 
 by applying data science tools and principles.  Billboard releases the Top 100 at the end
 of the year since 1958.  Can one build a model to predict which songs will end show up in 
-the top 100 for a given year?  Moreover,  
+the top 100 for a given year? 
 
 A great deal of effort was placed into generating the dataset (10192 observations), collecting 
 audio features from the Spotify Web API.  
